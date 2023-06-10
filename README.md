@@ -10,6 +10,13 @@ This is plan my trip frontend app . It is build in React where user can view the
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Clone Repository
+
+```
+TYPE `cd mock_11_frontend` on terminal
+```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
