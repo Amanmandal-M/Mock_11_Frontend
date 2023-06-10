@@ -4,8 +4,7 @@
 
 <br>
 
-This is plan my trip backend app where user can view the travellers data , add travel information ,edit ,delete and user can filter according destination and sorting by price.
-
+This is plan my trip frontend app . It is build in React where user can view the travellers data , add travel information ,edit ,delete and user can filter according destination and sorting by price.
 
 ## Getting Started with Create React App
 
